@@ -1,4 +1,4 @@
-<h1>Welcome to my Github 😉</h1>
+<h1>Welcome to my Github: </h1>
 <li>Software Development Student 🖥</li>
 <li>Technology Enthusiast 😎</li>
 <h1>Contact Me 👇</h1>
