@@ -3,7 +3,7 @@
 <li>Working at Zopu - Gold Partner Bitrix24 as a Trainee 🚀</li>
 <li>Technology Enthusiast 😎</li>
 
-<h1>My toolbelt:</h1>
+<h1>My Toolbelt 🛠️</h1>
 
 <div style="display: flex">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+<h1>Statistics 🔥</h1>
+
+[![gfloriano11](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/gfloriano11/github-readme-stats)
 
 <h1>Contact Me 👇</h1>
 <a href="https://www.linkedin.com/in/gustavo-floriano-651990246/"><img src="https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a>
