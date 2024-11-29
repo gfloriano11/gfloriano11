@@ -14,13 +14,10 @@
 </div>
 
 <h1>Statistics 🔥</h1>
-<div>
-  <img src="[![gfloriano11](https://github-readme-stats.vercel.app/api/top-langs/?    username=gfloriano11&hide=html&layout=compact&theme=dark)]">
-</div>
-<div>
-  <img src="![gfloriano11](https://github-readme-stats.vercel.app/api?username=gfloriano11&show_icons=true&theme=dark)">
-</div>
 
+[![gfloriano11](https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&hide=html&layout=compact&theme=dark)]
+
+![gfloriano11](https://github-readme-stats.vercel.app/api?username=gfloriano11&show_icons=true&theme=dark)
 
 
 <h1>Contact Me 👇</h1>
