@@ -15,7 +15,7 @@
 
 <h1>Statistics 🔥</h1>
 
-[![gfloriano11](https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&hide=html&layout=compact&theme=dark)]
+[![gfloriano11](https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&layout=compact&theme=dark)]
 
 ![gfloriano11](https://github-readme-stats.vercel.app/api?username=gfloriano11&show_icons=true&theme=dark)
 
