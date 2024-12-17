@@ -1,5 +1,6 @@
-<h1>Welcome to my Github: </h1>
-<li>Software Development Student 🖥</li>
+<h1>Welcome to my Github 👋 </h1>
+<li>Software Development 🖥</li>
+<li>Software Engenieer Student 🧑‍💻</li>
 <li>Working at Zopu - Gold Partner Bitrix24 as a Trainee 🚀</li>
 <li>Technology Enthusiast 😎</li>
 
