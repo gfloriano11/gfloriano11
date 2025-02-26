@@ -6,8 +6,6 @@
   <p>💻 Technology Enthusiast</p>
 </div>
 
----
-
 ## 🛠️ My Toolbelt
 
 <div align="center">
@@ -19,16 +17,12 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </div>
 
----
-
 ## 📊 Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfloriano11&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&layout=compact&theme=dark" />
 </div>
-
----
 
 ## 📫 Contact Me
 
