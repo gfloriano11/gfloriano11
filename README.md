@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-## 📚 Studying at the Moment
+## 🤔 Currently Learning
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232F?style=for-the-badge&logo=react&logoColor=61DAFB">
