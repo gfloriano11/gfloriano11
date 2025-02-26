@@ -1,6 +1,6 @@
 # Welcome to my GitHub 👋
 
-<div align="center">
+<div>
   <p>🚀 Software Development</p>
   <p>🎓 Software Engineer Student</p>
   <p>💻 Technology Enthusiast</p>
