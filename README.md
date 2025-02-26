@@ -1,9 +1,10 @@
 # Welcome to my GitHub 👋
 
-🚀 **Software Development**
-🎓 **Software Engineer Student**
-💻 **Technology Enthusiast**
-🧑‍💻 **Working at Zopu - Gold Partner Bitrix24 as a Trainee**
+<div align="center">
+  <p>🚀 Software Development</p>
+  <p>🎓 Software Engineer Student</p>
+  <p>💻 Technology Enthusiast</p>
+</div>
 
 ---
 
