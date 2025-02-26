@@ -20,11 +20,11 @@
 ## 📊 Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfloriano11&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfloriano11&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&layout=compact&theme=radical" />
 </div>
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=gfloriano11">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gfloriano11&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 ## 📫 Contact Me
