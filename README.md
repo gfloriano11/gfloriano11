@@ -24,7 +24,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&layout=compact&theme=radical" />
 </div>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gfloriano11&theme=radical" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gfloriano11&theme=radical"/>
 </div>
 
 ## 📫 Contact Me
