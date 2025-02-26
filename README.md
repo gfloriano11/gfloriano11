@@ -20,8 +20,8 @@
 ## 📊 Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfloriano11&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfloriano11&show_icons=true&theme=cobalt" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&layout=compact&theme=cobalt" />
 </div>
 <!-- <div align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gfloriano11&theme=cobalt)](https://git.io/streak-stats)
