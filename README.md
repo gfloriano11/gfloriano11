@@ -31,9 +31,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfloriano11&show_icons=true&theme=gotham&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&layout=compact&theme=gotham&hide_border=true" />
 </div>
-<!-- <div align="center">
+<div align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gfloriano11&theme=cobalt)](https://git.io/streak-stats)
-</div> -->
+</div>
 
 ## 📫 Contact Me
 
