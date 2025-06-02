@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232F?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">  
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>
 
 ## 📊 Statistics
@@ -34,7 +34,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&layout=compact&theme=gotham&hide_border=true" />
 </div>
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gfloriano11&theme=gotham&hide_border=true">
+  <img height="181em" src="https://github-readme-streak-stats.herokuapp.com?user=gfloriano11&theme=gotham&hide_border=true">
 </div>
 
 ## 📫 Contact Me
