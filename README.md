@@ -2,7 +2,7 @@
 
 <div>
   <p>🧑‍💻 Software Developer</p>
-  <p>🎓 Software Engineer Student</p>
+  <p>🎓 Software Engineering Student</p>
   <p>💻 Technology Enthusiast</p>
 </div>
 
