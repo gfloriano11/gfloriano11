@@ -39,7 +39,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&layout=compact&theme=gotham&hide_border=true" />
 </div>
 <div align="center">
-  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=gfloriano11&theme=gotham&hide_border=true">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gfloriano11&theme=gotham&hide_border=true">
 </div>
 
 ## 📫 Contact Me
