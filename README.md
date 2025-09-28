@@ -35,8 +35,8 @@
 ## 📊 Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfloriano11&show_icons=true&theme=gotham&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&layout=compact&theme=gotham&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfloriano11&show_icons=true&theme=gotham&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfloriano11&layout=compact&theme=gotham&hide_border=true&langs_count=20"/>
 </div>
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gfloriano11&theme=gotham&hide_border=true">
