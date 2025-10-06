@@ -26,6 +26,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=f5f5f5">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-b8022b?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
