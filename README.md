@@ -1,5 +1,5 @@
-# Welcome to my GitHub 👋
-
+# 👋 Hey, I'm Gustavo!
+### Fullstack Developer • TypeScript • React • Node • Java
 <div>
   <p>🧑‍💻 Software Developer</p>
   <p>🎓 Software Engineering Student</p>
