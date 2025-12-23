@@ -1,13 +1,7 @@
 # 👋 Hey, I'm Gustavo!
-### Fullstack Developer • TypeScript • React • Node • Java
 
-## 🧑‍💻 About Me
-- 🎓 Student of Software Engineering  
-- 🚀 Fullstack Dev focused on building clean and scalable applications  
-- 🌱 Currently improving my skills in backend architectures & TypeScript  
-- 🎯 Goal: Become Full Cycle Dev  
 <div>
-  <p>🧑‍💻 Software Developer</p>
+  <p>🧑‍💻 Fullstack Developer</p>
   <p>🎓 Software Engineering Student</p>
   <p>💻 Technology Enthusiast</p>
 </div>
