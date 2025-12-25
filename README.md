@@ -10,15 +10,15 @@
 
 <div align="center">
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,styledcomponents">
   </div>
   <div>
-    <img src="https://skillicons.dev/icons?i=java,cpp,php,mysql,postgres,postman">
+    <img src="https://skillicons.dev/icons?i=nodejs,java,cpp,php,mysql,postgres">
   </div>
   <br>
   <p>Others</p>
   <div>
-    <img src="https://skillicons.dev/icons?i=git,figma,express">
+    <img src="https://skillicons.dev/icons?i=git,figma,express,postman">
   </div>
 </div>
 
