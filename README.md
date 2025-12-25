@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs">
 </div>
 
 ## 🤔 Currently Learning
