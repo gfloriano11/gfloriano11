@@ -31,7 +31,7 @@
 ## 📫 Contact Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gustavo-floriano-651990246/">
+  <a href="https://www.linkedin.com/in/gustavofloriano/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:gflorianodev@gmail.com">
