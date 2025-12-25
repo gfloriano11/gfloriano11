@@ -17,7 +17,7 @@
   </div>
   <p>Others</p>
   <div>
-    <img src="https://skillicons.dev/icons?i=figma, express">
+    <img src="https://skillicons.dev/icons?i=figma,express">
   </div>
 </div>
 
