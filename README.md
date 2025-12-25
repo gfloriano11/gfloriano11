@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs">
+  <img src="https://skillicons.dev/icons?i=vite,java,php,mysql,postgres,postman">
 </div>
 
 ## 🤔 Currently Learning
