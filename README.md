@@ -8,7 +8,7 @@
 
 ## 🛠️ My Toolbelt
 
-<div align="center">
+<div display="flex" flex-direction="column" align="center" gap="5px">
   <div>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs">
   </div>
