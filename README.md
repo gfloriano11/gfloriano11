@@ -9,8 +9,12 @@
 ## 🛠️ My Toolbelt
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs">
-  <img src="https://skillicons.dev/icons?i=vite,java,php,mysql,postgres,postman">
+  <div>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs">
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=vite,java,php,mysql,postgres,postman">
+  </div>
 </div>
 
 ## 🤔 Currently Learning
