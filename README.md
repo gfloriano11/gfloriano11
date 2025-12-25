@@ -8,13 +8,14 @@
 
 ## 🛠️ My Toolbelt
 
-<div display="flex" flex-direction="column" align="center" gap="5px">
+<div align="center">
   <div>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs">
   </div>
   <div>
     <img src="https://skillicons.dev/icons?i=java,cpp,php,mysql,postgres,postman">
   </div>
+  <br>
   <p>Others</p>
   <div>
     <img src="https://skillicons.dev/icons?i=figma,express">
