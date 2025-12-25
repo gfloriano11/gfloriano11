@@ -13,18 +13,18 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs">
   </div>
   <div>
-    <img src="https://skillicons.dev/icons?i=vite,java,php,mysql,postgres,postman">
+    <img src="https://skillicons.dev/icons?i=java,cpp,php,mysql,postgres,postman">
+  </div>
+  <p>Others</p>
+  <div>
+    <img src="https://skillicons.dev/icons?i=figma, express">
   </div>
 </div>
 
 ## 🤔 Currently Learning
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=f5f5f5">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-b8022b?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=angular,ts,java">
 </div>
 
 ## 📊 Statistics
