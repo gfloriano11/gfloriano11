@@ -18,7 +18,7 @@
   <br>
   <p>Others</p>
   <div>
-    <img src="https://skillicons.dev/icons?i=git,figma,express,postman">
+    <img src="https://skillicons.dev/icons?i=git,docker,figma,express,postman">
   </div>
 </div>
 
