@@ -22,12 +22,6 @@
   </div>
 </div>
 
-## 🤔 Currently Learning
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,ts,java">
-</div>
-
 ## 📫 Contact Me
 
 <div align="center">
