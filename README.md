@@ -25,7 +25,7 @@
 ## 🤔 Currently Learning
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,ts,java,go">
+    <img src="https://skillicons.dev/icons?i=ts,java,go">
 </div>
 
 ## 📫 Contact Me
