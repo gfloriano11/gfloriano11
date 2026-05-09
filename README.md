@@ -21,10 +21,10 @@
   <br>
   <p>Others</p>
   <div>
-    <img src="https://skillicons.dev/icons?i=git,docker,figma,express,postman">
+    <img src="https://skillicons.dev/icons?i=git,figma,express,postman">
   </div>
   <div>
-    <img src="https://skillicons.dev/icons?i=kafka,k8s">
+    <img src="https://skillicons.dev/icons?i=docker,kafka,k8s">
   </div>
 </div>
 
