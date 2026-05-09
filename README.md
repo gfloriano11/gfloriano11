@@ -22,6 +22,7 @@
   <p>Others</p>
   <div>
     <img src="https://skillicons.dev/icons?i=git,docker,figma,express,postman">
+    <img src="https://skillicons.dev/icons?i=kafka,k8s">
   </div>
 </div>
 
