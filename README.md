@@ -31,7 +31,7 @@
 ## 🤔 Currently Learning
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,java,go">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,ts,java,go">
 </div>
 
 ## 📫 Contact Me
