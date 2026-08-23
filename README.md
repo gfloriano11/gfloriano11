@@ -1,10 +1,11 @@
 # 👋 Hey, I'm Gustavo!
 
-<div>
-  <p>🧑‍💻 Fullstack Developer</p>
-  <p>🎓 Software Engineering Student</p>
-  <p>💻 Technology Enthusiast</p>
-</div>
+<ul>
+  <li>🧑‍💻 Fullstack Developer</li>
+  <li>🎓 Software Engineering Student</li>
+  <li>💻 Technology Enthusiast</li>
+  <li>🚀 Scalable Apps and Software Architeture</li>
+</ul>
 
 ## 🛠️ My Toolbelt
 
