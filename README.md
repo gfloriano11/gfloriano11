@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=git,figma,express,postman">
   </div>
   <div>
-    <img src="https://skillicons.dev/icons?i=docker,kafka,k8s">
+    <img src="https://skillicons.dev/icons?i=redis,docker,kafka,k8s">
   </div>
 </div>
 
