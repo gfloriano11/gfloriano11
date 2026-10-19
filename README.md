@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,java,go,cpp,php">
   </div>
   <div>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma">
   </div>
   <br>
   <p>Others</p>
